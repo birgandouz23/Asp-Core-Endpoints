@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ejmSdCixOXVxyySTbmqCPf3AEv1C6WSS7f2HKJgP9jc=",
+  "Source": "Webapi_Core",
+  "BasePath": "_content/Webapi_Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
